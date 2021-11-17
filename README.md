@@ -1,3 +1,5 @@
+# Business-Analysis Projects
+
 # Project 1: Insights from Data
 Interpret data visualizations and explain insights to others.
 
